@@ -4,7 +4,7 @@ Signed CI attestations for zencodeinc repositories.
 
 Each file is an Ed25519-signed statement that the full CI manifest (`ci/manifest.yaml`) of one repository passed for one exact git tree. The repositories' own verifier checks these files. They contain no secrets: only step ids, exit codes, timings, log hashes, commit and tree ids, and a coarse host fingerprint.
 
-- Signing key id: `4a9038fda15b583f`
+- Signing key id: `cd5ce519f25dded1`
 - Public key: [`ci-attest.pub`](ci-attest.pub) (PEM, Ed25519). The same PEM is the org Actions variable `CI_ATTEST_PUBKEY`.
 
 ## Layout
