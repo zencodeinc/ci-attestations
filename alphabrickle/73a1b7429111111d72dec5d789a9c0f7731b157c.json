@@ -1,8 +1,8 @@
 {
  "key_id": "cd5ce519f25dded1",
  "payload": {
-  "base_commit": "e41c9a3d977ef7a4bc3fcb753df0bb936dcb7830",
-  "commit": "64ccc93a1dd5b5ca1ddb86178fe243edaeb1734d",
+  "base_commit": "5dbb315e42350214f65187328a09c4c443a888fd",
+  "commit": "5dbb315e42350214f65187328a09c4c443a888fd",
   "env": {
    "git": "git version 2.43.0",
    "host": "2162bac8",
@@ -11,9 +11,9 @@
    "os": "Linux",
    "python": "3.12.3"
   },
-  "expires_at": "2026-11-08T06:42:44Z",
-  "issued_at": "2026-11-01T06:42:44Z",
-  "jti": "f9fc4d05-48f2-42d3-892e-7365ef7c88e9",
+  "expires_at": "2026-11-08T06:48:03Z",
+  "issued_at": "2026-11-01T06:48:03Z",
+  "jti": "95a2be1c-8ad4-4cce-9d81-fac648ed6d0a",
   "kind": "ci-local-full",
   "manifest_sha256": "af35676338eb09d226ea78cf8db5ffb7e3206130e1270a4a6f0358e934654084",
   "repo": "zencodeinc/alphabrickle",
@@ -24,12 +24,12 @@
     "id": "npm-install",
     "log_sha256": "325086d788e6f6396f66068c906b3fa0038b9683e4bedef50b550e4972572262",
     "rc": 0,
-    "seconds": 16.4
+    "seconds": 16.5
    },
    {
     "cmd_sha256": "a29b5a4b439168542e9e8eef3fa93a21197203356eabbabd1cc5123759b03806",
     "id": "verify-authoring-plan",
-    "log_sha256": "ea9c00dad0bc89dbeabc9d0e5582089bb9bdc7c9259469c3667ac3409a858c11",
+    "log_sha256": "33a879bef89c4b56f8b2d8b37f409e21176aa32650d168ff90daeb3a0f8add62",
     "rc": 0,
     "seconds": 0.6
    },
@@ -40,14 +40,14 @@
      "skipped": 8
     },
     "id": "unit-tests",
-    "log_sha256": "9f68983f944546103e1bbabac3124619f03ff5e5f5068b1968c231993f00bfa7",
+    "log_sha256": "2003606ca6fe3d9d2e65f39ad57c5552ba86b057bc2ea867dfc5d3af705c25c3",
     "rc": 0,
-    "seconds": 22.7
+    "seconds": 22.8
    },
    {
     "cmd_sha256": "dae58de3ddfde95b066b259e24d83e50d15aedeafb58b0b20d7b26dd324ef0ef",
     "id": "type-check-build",
-    "log_sha256": "6e6a5d3043fd33c49e682621ca85c2349a1b792d8131491a18d79dd037af283c",
+    "log_sha256": "c7ae86b248de5ded6f0aa5bc8dde9e1fc8f66296d90ab348e35fc06e2d10d77d",
     "rc": 0,
     "seconds": 6.8
    }
@@ -56,5 +56,5 @@
   "tree": "73a1b7429111111d72dec5d789a9c0f7731b157c",
   "v": 1
  },
- "sig": "te5mGQvRJdaZrDofh50zlBM8+QgjuV0fkB4SKuGERDG3HDM7ujC7+NftTyywdVoupPhC9oQDFkMDgmG+INjhAg=="
+ "sig": "GIriGL9/5BXUn5Mtr8Y8Ch/2ijbtoi0vRl09hcGXzTJhl5Xu6wOHND8poZEO7bEA5IatQpMsTgGTIgQ2vsIRBA=="
 }
