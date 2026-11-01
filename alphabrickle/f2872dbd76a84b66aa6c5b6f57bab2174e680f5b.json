@@ -1,0 +1,60 @@
+{
+ "key_id": "cd5ce519f25dded1",
+ "payload": {
+  "base_commit": "f4c27b05981bb7affc82cec116ea860896f4d993",
+  "commit": "f4c27b05981bb7affc82cec116ea860896f4d993",
+  "env": {
+   "git": "git version 2.43.0",
+   "host": "2162bac8",
+   "node": "v22.23.2",
+   "openssl": "OpenSSL 3.0.13 30 Jan 2024 (Library: OpenSSL 3.0.13 30 Jan 2",
+   "os": "Linux",
+   "python": "3.12.3"
+  },
+  "expires_at": "2026-11-08T06:05:21Z",
+  "issued_at": "2026-11-01T06:05:21Z",
+  "jti": "da5e11d0-063d-4de9-9081-b610c711e263",
+  "kind": "ci-local-full",
+  "manifest_sha256": "af35676338eb09d226ea78cf8db5ffb7e3206130e1270a4a6f0358e934654084",
+  "repo": "zencodeinc/alphabrickle",
+  "skipped_steps": [],
+  "steps": [
+   {
+    "cmd_sha256": "92a9d455abd546660573f171254a586656c04928388a2a4e75f33daeea6641a6",
+    "id": "npm-install",
+    "log_sha256": "c67874ccf102bbba7f59cd51a6b39e19c2bc69be798c7bf2849d34e54adf07e9",
+    "rc": 0,
+    "seconds": 21.0
+   },
+   {
+    "cmd_sha256": "a29b5a4b439168542e9e8eef3fa93a21197203356eabbabd1cc5123759b03806",
+    "id": "verify-authoring-plan",
+    "log_sha256": "42c5da644dbdab8f1b173cbd50ca7a792ede022639b6754d75c8c02e38a868ea",
+    "rc": 0,
+    "seconds": 0.7
+   },
+   {
+    "cmd_sha256": "f135f9fa4f38fd0c92563221116e2f79df0838f5ff86440ae44d4b428576fc62",
+    "counts": {
+     "passed": 2285,
+     "skipped": 8
+    },
+    "id": "unit-tests",
+    "log_sha256": "1be937ec26b37eb29e9465221c93fd8284b50ba349cecbeb11f41881f7c347da",
+    "rc": 0,
+    "seconds": 22.2
+   },
+   {
+    "cmd_sha256": "dae58de3ddfde95b066b259e24d83e50d15aedeafb58b0b20d7b26dd324ef0ef",
+    "id": "type-check-build",
+    "log_sha256": "267b090936a571f87c961b8498d5965c7a31739975cbc0ed2d20cc4de9eb1335",
+    "rc": 0,
+    "seconds": 6.7
+   }
+  ],
+  "tool_sha": "a407bd0f20c203d7",
+  "tree": "f2872dbd76a84b66aa6c5b6f57bab2174e680f5b",
+  "v": 1
+ },
+ "sig": "eFiGzDeEhkqmtCJvJUiywAcM3Hmb+zCY7DZvPh91NqNDE+R6nfkscw8+WMuvqrs5FE7QOLAz0VA1pT3JB9UqBA=="
+}
