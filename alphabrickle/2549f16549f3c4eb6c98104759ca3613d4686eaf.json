@@ -1,8 +1,8 @@
 {
  "key_id": "cd5ce519f25dded1",
  "payload": {
-  "base_commit": "b22680cb1083d0528b5bae8d29413333da085d76",
-  "commit": "c4dd1c6003d8f600da7fba1a5cf10d849cafd17a",
+  "base_commit": "44c8fa8b50575c42b5f11971ec7ed4c38e189958",
+  "commit": "44c8fa8b50575c42b5f11971ec7ed4c38e189958",
   "env": {
    "git": "git version 2.43.0",
    "host": "2162bac8",
@@ -11,9 +11,9 @@
    "os": "Linux",
    "python": "3.12.3"
   },
-  "expires_at": "2026-11-08T04:14:05Z",
-  "issued_at": "2026-11-01T04:14:05Z",
-  "jti": "7c2b4eb3-890d-47b8-9d15-45c4c545a241",
+  "expires_at": "2026-11-08T04:17:11Z",
+  "issued_at": "2026-11-01T04:17:11Z",
+  "jti": "e3a4a764-42f4-458a-94a6-c0b3b1238c47",
   "kind": "ci-local-full",
   "manifest_sha256": "af35676338eb09d226ea78cf8db5ffb7e3206130e1270a4a6f0358e934654084",
   "repo": "zencodeinc/alphabrickle",
@@ -22,14 +22,14 @@
    {
     "cmd_sha256": "92a9d455abd546660573f171254a586656c04928388a2a4e75f33daeea6641a6",
     "id": "npm-install",
-    "log_sha256": "06c766c2d679b22014714c3858e738eac181a6bbd119a1d352e98b1d11037ae5",
+    "log_sha256": "f28c891cfa8fe55b48ffe12a2cae1404cdfb626b866b1df1369a4eac2f7f136d",
     "rc": 0,
-    "seconds": 18.8
+    "seconds": 17.8
    },
    {
     "cmd_sha256": "a29b5a4b439168542e9e8eef3fa93a21197203356eabbabd1cc5123759b03806",
     "id": "verify-authoring-plan",
-    "log_sha256": "83b3315881993c25469c68171e01d752601a83b885b0e2db4a05381d0c57f35b",
+    "log_sha256": "8c23fc46cd2a64165a5ac8a99d86080485202d0d1134a9b4c7f1facfcc46a0b1",
     "rc": 0,
     "seconds": 0.6
    },
@@ -40,14 +40,14 @@
      "skipped": 8
     },
     "id": "unit-tests",
-    "log_sha256": "89072f912dd19dfcf556dd1f04e1111b6671a2916ce567c5801a869ea511db9c",
+    "log_sha256": "b66711a7b64eabee704c2f0b9a487dfe296bc6a33522280135fd76968e65e1fa",
     "rc": 0,
     "seconds": 19.9
    },
    {
     "cmd_sha256": "dae58de3ddfde95b066b259e24d83e50d15aedeafb58b0b20d7b26dd324ef0ef",
     "id": "type-check-build",
-    "log_sha256": "d78c99769d0deea3476bef5e813554e5f95140928ff7308f2d3cc9068736fc10",
+    "log_sha256": "49929eb5da7debf0de4c9984f2a31c1b9e86c6dbc2fed14fccaf4aa3094f1a57",
     "rc": 0,
     "seconds": 6.4
    }
@@ -56,5 +56,5 @@
   "tree": "2549f16549f3c4eb6c98104759ca3613d4686eaf",
   "v": 1
  },
- "sig": "3wYpcVq8xHSnKjjA6AKZpvoFHG8jcY/yCwaOckLwGSE3tIFADrg2Gh3dZ7pe0zhQFpBzPgoMYl3twbvU56VFBg=="
+ "sig": "SMchQlJUfmF8tvNFModBTbmlfQUYmdy9DQ7HRWgxxXfdGqvqLLmK5Poz44I2v/n5lzidHmdZZFnPCrqytG4GDQ=="
 }
